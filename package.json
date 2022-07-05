@@ -1,6 +1,5 @@
 {
-  "homepage": "http://kmhinds.github.io/mdn-todo",
-
+  "homepage": "http://kmhinds.github.io/mdn-todo/",
   "name": "moz-todo-react",
   "version": "0.1.0",
   "private": true,
